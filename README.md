@@ -1,2 +1,1 @@
-# smoking-trends-causal-inference
-Portfolio Project: Has Adult Smoking Been Decreasing In The United States Over The Years?
+This project integrates data analysis in Python and causal inference in R to examine national smoking trends from 2000 to 2023. The results provide strong evidence that the 2009 tobacco tax policy contributed to a significant reduction in adult smoking. The methods used — including data cleaning, EDA, hypothesis testing, and causal modeling — showcase the ability to combine exploratory insights with statistical rigor to support public health research and policy evaluation.
